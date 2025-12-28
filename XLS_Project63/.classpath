@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="E:/QA Work Space/SeleniumJar/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="E:/QA Work Space/SeleniumJar/dom4j-1.1.jar"/>
+	<classpathentry kind="lib" path="E:/QA Work Space/SeleniumJar/jcommander.jar"/>
+	<classpathentry kind="lib" path="E:/QA Work Space/SeleniumJar/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="E:/QA Work Space/SeleniumJar/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="E:/QA Work Space/SeleniumJar/org.hamcrest.core_1.3.0.v201303031735.jar"/>
+	<classpathentry kind="lib" path="E:/QA Work Space/SeleniumJar/poi-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="E:/QA Work Space/SeleniumJar/poi-ooxml-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="E:/QA Work Space/SeleniumJar/poi-ooxml-schemas-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="E:/QA Work Space/SeleniumJar/saxon-8.7.jar"/>
+	<classpathentry kind="lib" path="E:/QA Work Space/SeleniumJar/SaxonLiaison.jar"/>
+	<classpathentry kind="lib" path="E:/QA Work Space/SeleniumJar/selenium-server-4.4.0.jar"/>
+	<classpathentry kind="lib" path="E:/QA Work Space/SeleniumJar/testng-6.14.2.jar"/>
+	<classpathentry kind="lib" path="E:/QA Work Space/SeleniumJar/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
